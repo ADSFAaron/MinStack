@@ -1,0 +1,2 @@
+C:\Users\Aaron\source\repos\MinStack\Debug\MinStack.exe
+C:\Users\Aaron\source\repos\MinStack\Debug\MinStack.pdb

@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Aaron\source\repos\MinStack\Source.cpp(211,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\Aaron\source\repos\MinStack\Source.cpp(221,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\Aaron\source\repos\MinStack\Source.cpp(292,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\Aaron\source\repos\MinStack\Source.cpp(328,20): warning C4018: '<': signed/unsigned 不相符
+  MinStack.vcxproj -> C:\Users\Aaron\source\repos\MinStack\Debug\MinStack.exe
